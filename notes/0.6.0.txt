@@ -1,0 +1,5 @@
+Nouveautés de la version 0.6.0 :
+• Agent Claude Code : les skills « Agent requis » (jeux de révision, extensions WordPress, images, PDF) sont exécutés par Claude Code sur votre Mac, avec votre abonnement Claude.
+• Journal en direct, arrêt possible, fichiers produits ouverts d'un clic.
+• Installation guidée dans Réglages › Claude Code.
+• Option « Exécuter avec Claude Code » pour n'importe quel skill.
