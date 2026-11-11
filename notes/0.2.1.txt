@@ -1,0 +1,3 @@
+Nouveautés de la version 0.2.1 :
+• Mises à jour intégrées : Logi AI vérifie à chaque ouverture et s'installe depuis Réglages › Mises à jour.
+• Vérification des clés API à l'enregistrement (clé raccourcie, incomplète ou au mauvais format), avec aperçu masqué de la clé enregistrée.
