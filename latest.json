@@ -1,15 +1,15 @@
 {
-  "version": "0.2.3",
-  "notes": "Nouveautés de la version 0.2.3 :\n• Barre de menus en français.\n• Réglages… (⌘,) et Rechercher une mise à jour… dans le menu Logi AI.\n• Nouveau projet (⌘N) et bascule mode clair / sombre (⇧⌘D).\n• Rappel (0.2.2) : collez une dernière fois vos clés API dans Réglages › Clés API si elles n'apparaissent plus.",
-  "pub_date": "2026-11-11T09:36:46.733Z",
+  "version": "0.3.0",
+  "notes": "Nouveautés de la version 0.3.0 :\n• Dépôt de supports : PDF, Word, PowerPoint, texte et photos (lues par une IA).\n• Import des cours et leçons Sensei depuis votre site (Réglages › Mon site WordPress).\n• Modules : synthèse, compréhension, QCM, questions ouvertes, mise en situation.\n• Contrôle qualité par une 2e IA, avec rapport et corrections annulables.\n• Productions enregistrées par projet, exports Word, Excel et Markdown.\n• Suivi des coûts dans la jauge du budget.",
+  "pub_date": "2026-11-11T10:12:39.890Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3JRb0JJRzB0OHQ0TndUK0EyR3I5cnozVHBOa1hFOWZsR3hHYnFHV1lDTXU5NVFmNG9mSXB1Q3h5dktuNGw5RUF1WTV6V1o2TG1XQUVEUTdzTkZ4Z3ZPdFVNWEl2eVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Mzg5ODAxCWZpbGU6TG9naSBBSS5hcHAudGFyLmd6CXZlcnNpb246MC4yLjMKdkdVNS8xUEVPNFhWRHdBSnA1RUNBWExTVFR6RG9wN0xLdXVkT1ZqVnRhdnk2SkFyeEhlc3dENXlhKzFOWkVldkhlU0NrZ1BUVE8rVG9zYWtNLzNxQ3c9PQo=",
-      "url": "https://raw.githubusercontent.com/logiprof/logiai-releases/main/versions/0.2.3/Logi.AI_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3JRb0JJRzB0OHJMWnhFU0prWjJpY0NXdzE4YzI2b1I2M3VOaW8wWkhaT1B3WHRkMGFvSEZ5NHZJNCswZ0lFSGFSbG1CREtLSUJLRFlyQWRBaEh0akJwZ2VzOFhVd2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzkxOTU0CWZpbGU6TG9naSBBSS5hcHAudGFyLmd6CXZlcnNpb246MC4zLjAKL2M0S2krbG5aWndua2NDYVJoWUZjZ1Yvdmt6YzV0dnFPanZ0cXorVEREZE9tRjVGclhUcU1YdDkvY3dqQ1k0ZGZWcGdBeDJFVi9kRkJSRGhYL3RzRFE9PQo=",
+      "url": "https://raw.githubusercontent.com/logiprof/logiai-releases/main/versions/0.3.0/Logi.AI_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3JRb0JJRzB0OHQ0TndUK0EyR3I5cnozVHBOa1hFOWZsR3hHYnFHV1lDTXU5NVFmNG9mSXB1Q3h5dktuNGw5RUF1WTV6V1o2TG1XQUVEUTdzTkZ4Z3ZPdFVNWEl2eVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Mzg5ODAxCWZpbGU6TG9naSBBSS5hcHAudGFyLmd6CXZlcnNpb246MC4yLjMKdkdVNS8xUEVPNFhWRHdBSnA1RUNBWExTVFR6RG9wN0xLdXVkT1ZqVnRhdnk2SkFyeEhlc3dENXlhKzFOWkVldkhlU0NrZ1BUVE8rVG9zYWtNLzNxQ3c9PQo=",
-      "url": "https://raw.githubusercontent.com/logiprof/logiai-releases/main/versions/0.2.3/Logi.AI_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3JRb0JJRzB0OHJMWnhFU0prWjJpY0NXdzE4YzI2b1I2M3VOaW8wWkhaT1B3WHRkMGFvSEZ5NHZJNCswZ0lFSGFSbG1CREtLSUJLRFlyQWRBaEh0akJwZ2VzOFhVd2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzkxOTU0CWZpbGU6TG9naSBBSS5hcHAudGFyLmd6CXZlcnNpb246MC4zLjAKL2M0S2krbG5aWndua2NDYVJoWUZjZ1Yvdmt6YzV0dnFPanZ0cXorVEREZE9tRjVGclhUcU1YdDkvY3dqQ1k0ZGZWcGdBeDJFVi9kRkJSRGhYL3RzRFE9PQo=",
+      "url": "https://raw.githubusercontent.com/logiprof/logiai-releases/main/versions/0.3.0/Logi.AI_aarch64.app.tar.gz"
     }
   }
 }

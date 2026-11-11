@@ -1,0 +1,7 @@
+Nouveautés de la version 0.3.0 :
+• Dépôt de supports : PDF, Word, PowerPoint, texte et photos (lues par une IA).
+• Import des cours et leçons Sensei depuis votre site (Réglages › Mon site WordPress).
+• Modules : synthèse, compréhension, QCM, questions ouvertes, mise en situation.
+• Contrôle qualité par une 2e IA, avec rapport et corrections annulables.
+• Productions enregistrées par projet, exports Word, Excel et Markdown.
+• Suivi des coûts dans la jauge du budget.
