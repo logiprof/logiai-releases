@@ -1,0 +1,5 @@
+Nouveautés de la version 0.2.3 :
+• Barre de menus en français.
+• Réglages… (⌘,) et Rechercher une mise à jour… dans le menu Logi AI.
+• Nouveau projet (⌘N) et bascule mode clair / sombre (⇧⌘D).
+• Rappel (0.2.2) : collez une dernière fois vos clés API dans Réglages › Clés API si elles n'apparaissent plus.
