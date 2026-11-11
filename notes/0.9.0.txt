@@ -1,0 +1,4 @@
+Nouveautés de la version 0.9.0 :
+• Scénarios : enchaînez modules, skills, agent Claude Code, exports et publication d'extensions en un clic.
+• 6 modèles prêts à l'emploi (pack de révision, évaluation, jeux de révision publiés…).
+• Coût estimé avant lancement, suivi étape par étape, arrêt et reprise à l'étape en erreur.
