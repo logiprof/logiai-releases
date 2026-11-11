@@ -1,0 +1,5 @@
+Nouveautés de la version 0.4.0 :
+• Nouvel espace Skills : importez vos skills (SKILL.md, .zip ou .skill, compatibles Claude), lisez-les, modifiez-les, exportez-les.
+• Assistant de création de skills : décrivez votre besoin, l'assistant pose ses questions et rédige le skill.
+• Utilisez un skill sur n'importe quel support : résultat en document Word ou en tableau Excel, contrôlé par une 2e IA.
+• Vos skills apparaissent aussi sur l'Accueil.
