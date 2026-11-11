@@ -1,0 +1,3 @@
+Nouveautés de la version 0.2.2 :
+• Une seule autorisation du Trousseau pour toutes vos clés API (au lieu d'une par clé).
+• Important : après cette mise à jour, collez une dernière fois vos clés dans Réglages › Clés API.
