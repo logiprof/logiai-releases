@@ -1,0 +1,5 @@
+Nouveautés de la version 0.5.0 :
+• Mémoire : modifiez une production (bouton « Modifier ») ou laissez une remarque, Logi AI vous propose de retenir une règle pour les prochaines fois.
+• Chaque règle s'applique à un projet, à un type de production ou partout, et elle est vérifiée par le contrôle qualité.
+• Nouvel écran Mémoire pour gérer vos règles.
+• Skills classés en dossiers et sous-dossiers (ex. Jeux/9H), avec filtre.
