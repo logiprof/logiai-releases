@@ -1,0 +1,5 @@
+Nouveautés de la version 0.7.0 :
+• Mes applications : vos extensions WordPress rangées en dossiers, chacune dans son dépôt GitHub privé.
+• Mises à jour automatiques sur votre site (Plugin Update Checker ajouté à chaque extension).
+• Réglages › GitHub : jeton gardé dans le Trousseau.
+• Bouton « Publier dans Mes applications » sur les extensions produites par l'agent.
