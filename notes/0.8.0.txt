@@ -1,0 +1,3 @@
+Nouveautés de la version 0.8.0 :
+• Chat : discutez avec l'IA de votre choix, avec l'historique de toutes vos conversations (recherche, épingles, projets, documents joints).
+• Bibliothèque : toutes vos créations au même endroit (images, animations, jeux, extensions, documents, textes).
