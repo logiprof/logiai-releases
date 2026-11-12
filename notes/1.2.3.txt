@@ -1,0 +1,2 @@
+Nouveautés de la version 1.2.3 :
+• Formules lisibles : plus de code LaTeX ($...$) dans les réponses, les productions et les exports (ex. −24 °C, 0,105 m³, 21/200).
