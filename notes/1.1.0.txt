@@ -1,0 +1,4 @@
+Nouveautés de la version 1.1.0 :
+• Assistant dans Sites internet et Mes applications : écrivez votre demande, Logi AI propose les actions et vous les confirmez une par une.
+• Sur un site : lire et corriger un contenu (révision WordPress conservée), créer des brouillons, gérer et mettre à jour les extensions.
+• Dans Mes applications : ranger, installer sur un site, télécharger.
