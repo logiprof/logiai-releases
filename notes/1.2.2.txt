@@ -1,0 +1,2 @@
+Nouveautés de la version 1.2.2 :
+• Chat en mode automatique : l'IA choisie est affichée dans le menu IA, pendant la réflexion et sous chaque réponse.

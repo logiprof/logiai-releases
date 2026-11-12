@@ -1,15 +1,15 @@
 {
-  "version": "1.2.1",
-  "notes": "Nouveautés de la version 1.2.1 :\n• Un clic sur un projet (barre latérale) ouvre sa page : ses discussions et ses productions.\n• Chat : aucune discussion n'est rattachée à un projet par défaut ; Logi AI demande avant de répondre (ou « Sans projet »).\n• Une discussion peut être rattachée à un projet à tout moment (menu « Projet »).",
-  "pub_date": "2026-11-12T08:06:46.300Z",
+  "version": "1.2.2",
+  "notes": "Nouveautés de la version 1.2.2 :\n• Chat en mode automatique : l'IA choisie est affichée dans le menu IA, pendant la réflexion et sous chaque réponse.",
+  "pub_date": "2026-11-12T08:14:49.056Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3JRb0JJRzB0OGtVYlFMdENKT2VTUDBpTDRsRXFrTjFUeDJLTGlzblBFdzloMU81Mm8veDhMM2V3cWhDRENtQk1SU2M0QUc2M3k3QnBjcFVTOGY1RkxwQVJ2cVZuTndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDcwODAwCWZpbGU6TG9naSBBSS5hcHAudGFyLmd6CXZlcnNpb246MS4yLjEKUXUrM3ZjN3pjcDR4anFLVTZKcFoxMHpzMlVwZG9SQWdIR1Q4RDdnU2hUZitzRUo3UG1YSWRjRGMrQXdHM0dFVHdZYVdUZWVNdWt5QldFYW5XUjArRGc9PQo=",
-      "url": "https://raw.githubusercontent.com/logiprof/logiai-releases/main/versions/1.2.1/Logi.AI_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3JRb0JJRzB0OHB5K3FjaW53ZmdLdzNBYnRoZUZtZ3BqMllBYkVvbzQrYnN0M0lYcTlGTjk0d0pVbnZkZnZxT3o4V1dzNmdBSDlJWS9JQjlWdGFJd0xRNVozdFpFZ0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDcxMjgzCWZpbGU6TG9naSBBSS5hcHAudGFyLmd6CXZlcnNpb246MS4yLjIKT01VTkRVR1lHQzIvaFI5Z244N0VUdkVPVEdqbTNaVlNsNDI3amViRUY2RDBDTDI3WTR2M0gzSXFlQktvbmtvRHkwN3VSNjVDandEL3VUcitxNUF0Q2c9PQo=",
+      "url": "https://raw.githubusercontent.com/logiprof/logiai-releases/main/versions/1.2.2/Logi.AI_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3JRb0JJRzB0OGtVYlFMdENKT2VTUDBpTDRsRXFrTjFUeDJLTGlzblBFdzloMU81Mm8veDhMM2V3cWhDRENtQk1SU2M0QUc2M3k3QnBjcFVTOGY1RkxwQVJ2cVZuTndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDcwODAwCWZpbGU6TG9naSBBSS5hcHAudGFyLmd6CXZlcnNpb246MS4yLjEKUXUrM3ZjN3pjcDR4anFLVTZKcFoxMHpzMlVwZG9SQWdIR1Q4RDdnU2hUZitzRUo3UG1YSWRjRGMrQXdHM0dFVHdZYVdUZWVNdWt5QldFYW5XUjArRGc9PQo=",
-      "url": "https://raw.githubusercontent.com/logiprof/logiai-releases/main/versions/1.2.1/Logi.AI_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3JRb0JJRzB0OHB5K3FjaW53ZmdLdzNBYnRoZUZtZ3BqMllBYkVvbzQrYnN0M0lYcTlGTjk0d0pVbnZkZnZxT3o4V1dzNmdBSDlJWS9JQjlWdGFJd0xRNVozdFpFZ0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDcxMjgzCWZpbGU6TG9naSBBSS5hcHAudGFyLmd6CXZlcnNpb246MS4yLjIKT01VTkRVR1lHQzIvaFI5Z244N0VUdkVPVEdqbTNaVlNsNDI3amViRUY2RDBDTDI3WTR2M0gzSXFlQktvbmtvRHkwN3VSNjVDandEL3VUcitxNUF0Q2c9PQo=",
+      "url": "https://raw.githubusercontent.com/logiprof/logiai-releases/main/versions/1.2.2/Logi.AI_aarch64.app.tar.gz"
     }
   }
 }
