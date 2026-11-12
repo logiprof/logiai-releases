@@ -1,0 +1,4 @@
+Nouveautés de la version 1.2.1 :
+• Un clic sur un projet (barre latérale) ouvre sa page : ses discussions et ses productions.
+• Chat : aucune discussion n'est rattachée à un projet par défaut ; Logi AI demande avant de répondre (ou « Sans projet »).
+• Une discussion peut être rattachée à un projet à tout moment (menu « Projet »).
