@@ -1,0 +1,4 @@
+Nouveautés de la version 1.0.0 :
+• Sites internet : reliez plusieurs sites WordPress.
+• Envoyez une production comme brouillon (article, page ou leçon Sensei) et vos fichiers dans la médiathèque.
+• Extensions : activer, désactiver, mettre à jour, et installer vos extensions de Mes applications depuis GitHub (connecteur Logi AI 1.1).
