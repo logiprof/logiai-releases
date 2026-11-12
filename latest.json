@@ -1,15 +1,15 @@
 {
-  "version": "1.3.0",
-  "notes": "Nouveautés de la version 1.3.0 :\n• Agents de code : choisissez Claude Code (abonnement Claude) ou Codex d'OpenAI (abonnement ChatGPT) pour les skills qui créent des fichiers (jeux, extensions, PDF).\n• Les skills restent les mêmes : Logi AI les met à disposition des deux agents.\n• Choix par défaut dans Réglages › Agents de code, modifiable à chaque lancement et pour chaque étape de scénario.",
-  "pub_date": "2026-11-12T09:02:44.499Z",
+  "version": "1.4.0",
+  "notes": "Nouveautés de la version 1.4.0 :\n• Soldes des comptes IA (Réglages) : lus automatiquement pour DeepSeek et OpenRouter, saisis pour Claude, OpenAI et Gemini puis estimés d'après les dépenses de Logi AI.\n• Option « Utiliser d'abord les comptes qui ont le plus de solde » : Logi AI dépense l'argent déjà disponible et évite les comptes vides.",
+  "pub_date": "2026-11-12T09:17:48.867Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3JRb0JJRzB0OGpkcTNsbVJnZFI0VHd2TXJLR0xORlhNcmFTQnM0ejZNc28zaWdyT2VodGJ1Qnh0RWMzdm5Yb3NJZXlBd3pQdkU4N2xTZFRsd2thUFdnako5eExURWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDc0MTU4CWZpbGU6TG9naSBBSS5hcHAudGFyLmd6CXZlcnNpb246MS4zLjAKcHVKNndENmRJTFBiNEF5YlQ5Y2N2N3lGb3NuajJIVlQvbWVEb3JZSDJ1Rit5SzVZOE9OYnEvRDhwL1VlOGlRR3hMZ2p3dnFCNFVTSUVzcDR2WGhDRGc9PQo=",
-      "url": "https://raw.githubusercontent.com/logiprof/logiai-releases/main/versions/1.3.0/Logi.AI_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3JRb0JJRzB0OHZ4V01tZFpaQXJZV09XYkp6VEYwelBBeWRVSE16d2RIWU0vZFhhb1lsVFFJTVNNK2M0RmZZZ2hhbVQwa3gzTmc5VXk0QkZ2SDA4M0JpdjNMa2dCM2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDc1MDYzCWZpbGU6TG9naSBBSS5hcHAudGFyLmd6CXZlcnNpb246MS40LjAKeHFOazVoOVhXZ0pqb0xWQXB5WWZQVlRiSFNxVHpHV3ZMWTEva2djQ3JkR2hEUTR0RHZrcWVNd3FQNWN3anlPdHI4U1dRT2MySFZIUkRETXhtcDBXRFE9PQo=",
+      "url": "https://raw.githubusercontent.com/logiprof/logiai-releases/main/versions/1.4.0/Logi.AI_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3JRb0JJRzB0OGpkcTNsbVJnZFI0VHd2TXJLR0xORlhNcmFTQnM0ejZNc28zaWdyT2VodGJ1Qnh0RWMzdm5Yb3NJZXlBd3pQdkU4N2xTZFRsd2thUFdnako5eExURWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDc0MTU4CWZpbGU6TG9naSBBSS5hcHAudGFyLmd6CXZlcnNpb246MS4zLjAKcHVKNndENmRJTFBiNEF5YlQ5Y2N2N3lGb3NuajJIVlQvbWVEb3JZSDJ1Rit5SzVZOE9OYnEvRDhwL1VlOGlRR3hMZ2p3dnFCNFVTSUVzcDR2WGhDRGc9PQo=",
-      "url": "https://raw.githubusercontent.com/logiprof/logiai-releases/main/versions/1.3.0/Logi.AI_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3JRb0JJRzB0OHZ4V01tZFpaQXJZV09XYkp6VEYwelBBeWRVSE16d2RIWU0vZFhhb1lsVFFJTVNNK2M0RmZZZ2hhbVQwa3gzTmc5VXk0QkZ2SDA4M0JpdjNMa2dCM2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDc1MDYzCWZpbGU6TG9naSBBSS5hcHAudGFyLmd6CXZlcnNpb246MS40LjAKeHFOazVoOVhXZ0pqb0xWQXB5WWZQVlRiSFNxVHpHV3ZMWTEva2djQ3JkR2hEUTR0RHZrcWVNd3FQNWN3anlPdHI4U1dRT2MySFZIUkRETXhtcDBXRFE9PQo=",
+      "url": "https://raw.githubusercontent.com/logiprof/logiai-releases/main/versions/1.4.0/Logi.AI_aarch64.app.tar.gz"
     }
   }
 }

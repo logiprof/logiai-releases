@@ -1,0 +1,3 @@
+Nouveautés de la version 1.4.0 :
+• Soldes des comptes IA (Réglages) : lus automatiquement pour DeepSeek et OpenRouter, saisis pour Claude, OpenAI et Gemini puis estimés d'après les dépenses de Logi AI.
+• Option « Utiliser d'abord les comptes qui ont le plus de solde » : Logi AI dépense l'argent déjà disponible et évite les comptes vides.
