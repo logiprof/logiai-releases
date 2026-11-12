@@ -1,0 +1,4 @@
+Nouveautés de la version 1.2.0 (avec le connecteur Logi AI 1.2 sur vos sites) :
+• Mises à jour : WordPress, thèmes et traductions, en plus des extensions.
+• Sécurité : diagnostic du site, 6 protections activables, vérification des fichiers de WordPress, déconnexion de tous les comptes.
+• Cours Sensei : l'assistant lit et réorganise la structure des cours (modules, ordre, nouvelles leçons en brouillon).
