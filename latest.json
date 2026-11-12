@@ -1,15 +1,15 @@
 {
-  "version": "1.4.0",
-  "notes": "Nouveautés de la version 1.4.0 :\n• Soldes des comptes IA (Réglages) : lus automatiquement pour DeepSeek et OpenRouter, saisis pour Claude, OpenAI et Gemini puis estimés d'après les dépenses de Logi AI.\n• Option « Utiliser d'abord les comptes qui ont le plus de solde » : Logi AI dépense l'argent déjà disponible et évite les comptes vides.",
-  "pub_date": "2026-11-12T09:17:48.867Z",
+  "version": "1.5.0",
+  "notes": "Nouveautés de la version 1.5.0 :\n• Illustrations : créez des images avec Gemini (Nano Banana), styles, formats, images de référence et modification.\n• Sauvegarde automatique quotidienne de vos données (iCloud Drive possible) et restauration.\n• Contenus confidentiels : seules vos IA de confiance traitent un document ou une discussion marqués « Confidentiel ».\n• Arène : comparez 2 ou 3 IA côte à côte, votez à l'aveugle.\n• Tableau de bord : dépenses, créations, soldes et sauvegardes en un coup d'œil.",
+  "pub_date": "2026-11-12T23:21:00.416Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3JRb0JJRzB0OHZ4V01tZFpaQXJZV09XYkp6VEYwelBBeWRVSE16d2RIWU0vZFhhb1lsVFFJTVNNK2M0RmZZZ2hhbVQwa3gzTmc5VXk0QkZ2SDA4M0JpdjNMa2dCM2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDc1MDYzCWZpbGU6TG9naSBBSS5hcHAudGFyLmd6CXZlcnNpb246MS40LjAKeHFOazVoOVhXZ0pqb0xWQXB5WWZQVlRiSFNxVHpHV3ZMWTEva2djQ3JkR2hEUTR0RHZrcWVNd3FQNWN3anlPdHI4U1dRT2MySFZIUkRETXhtcDBXRFE9PQo=",
-      "url": "https://raw.githubusercontent.com/logiprof/logiai-releases/main/versions/1.4.0/Logi.AI_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3JRb0JJRzB0OG0yVllyVVhOazdWN20rbENXanVOdVFwaVRFNVMxall5MGsvSXJBZVVrdW95SnR1ZDV3NFhUOE5nWEkyN0NJdjNFN2hpVlhZai94SzBvVGpPVXhRSEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTI1NjU0CWZpbGU6TG9naSBBSS5hcHAudGFyLmd6CXZlcnNpb246MS41LjAKTldXc0lJTFRDTlRqZnRyY0tBMk8xRisvYVBheVpxN3hMOWdQeFhjK28zZGwvWnBDbnAybmliMitpdjVUbUg3aXB0SDkrSjVjU3lZMEFCL1hWR2JXQVE9PQo=",
+      "url": "https://raw.githubusercontent.com/logiprof/logiai-releases/main/versions/1.5.0/Logi.AI_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3JRb0JJRzB0OHZ4V01tZFpaQXJZV09XYkp6VEYwelBBeWRVSE16d2RIWU0vZFhhb1lsVFFJTVNNK2M0RmZZZ2hhbVQwa3gzTmc5VXk0QkZ2SDA4M0JpdjNMa2dCM2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDc1MDYzCWZpbGU6TG9naSBBSS5hcHAudGFyLmd6CXZlcnNpb246MS40LjAKeHFOazVoOVhXZ0pqb0xWQXB5WWZQVlRiSFNxVHpHV3ZMWTEva2djQ3JkR2hEUTR0RHZrcWVNd3FQNWN3anlPdHI4U1dRT2MySFZIUkRETXhtcDBXRFE9PQo=",
-      "url": "https://raw.githubusercontent.com/logiprof/logiai-releases/main/versions/1.4.0/Logi.AI_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3JRb0JJRzB0OG0yVllyVVhOazdWN20rbENXanVOdVFwaVRFNVMxall5MGsvSXJBZVVrdW95SnR1ZDV3NFhUOE5nWEkyN0NJdjNFN2hpVlhZai94SzBvVGpPVXhRSEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTI1NjU0CWZpbGU6TG9naSBBSS5hcHAudGFyLmd6CXZlcnNpb246MS41LjAKTldXc0lJTFRDTlRqZnRyY0tBMk8xRisvYVBheVpxN3hMOWdQeFhjK28zZGwvWnBDbnAybmliMitpdjVUbUg3aXB0SDkrSjVjU3lZMEFCL1hWR2JXQVE9PQo=",
+      "url": "https://raw.githubusercontent.com/logiprof/logiai-releases/main/versions/1.5.0/Logi.AI_aarch64.app.tar.gz"
     }
   }
 }

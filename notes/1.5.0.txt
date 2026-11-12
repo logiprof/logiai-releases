@@ -1,0 +1,6 @@
+Nouveautés de la version 1.5.0 :
+• Illustrations : créez des images avec Gemini (Nano Banana), styles, formats, images de référence et modification.
+• Sauvegarde automatique quotidienne de vos données (iCloud Drive possible) et restauration.
+• Contenus confidentiels : seules vos IA de confiance traitent un document ou une discussion marqués « Confidentiel ».
+• Arène : comparez 2 ou 3 IA côte à côte, votez à l'aveugle.
+• Tableau de bord : dépenses, créations, soldes et sauvegardes en un coup d'œil.
