@@ -1,0 +1,6 @@
+Nouveautés de la version 1.7.0 :
+• Missions : des agents qui travaillent tout seuls à l'heure choisie (sécurité des sites, mises à jour, disponibilité, soldes des comptes IA, bilan du mois, mission libre rédigée en français).
+• Les mises à jour importantes (extensions, thèmes, WordPress) vous sont proposées et ne se font qu'avec votre accord.
+• Notifications macOS quand une mission trouve quelque chose, et pastille rouge sur « Missions » dans le menu.
+• Fermer la fenêtre laisse Logi AI tourner dans la barre des menus (icône en haut de l'écran). ⌘Q pour quitter.
+• Option « Ouvrir Logi AI au démarrage du Mac » (Missions ou Réglages).

@@ -1,15 +1,15 @@
 {
-  "version": "1.6.0",
-  "notes": "Nouveautés de la version 1.6.0 :\n• Nouveau menu : groupes repliables (Créer, Mes contenus, Projets, Publier), bouton « Nouveau », icônes.\n• Épinglés : vos projets et discussions épinglés restent toujours visibles en haut du menu.\n• Menu réduit aux icônes (bouton en haut du menu) pour gagner de la place.",
-  "pub_date": "2026-11-13T08:02:57.615Z",
+  "version": "1.7.0",
+  "notes": "Nouveautés de la version 1.7.0 :\n• Missions : des agents qui travaillent tout seuls à l'heure choisie (sécurité des sites, mises à jour, disponibilité, soldes des comptes IA, bilan du mois, mission libre rédigée en français).\n• Les mises à jour importantes (extensions, thèmes, WordPress) vous sont proposées et ne se font qu'avec votre accord.\n• Notifications macOS quand une mission trouve quelque chose, et pastille rouge sur « Missions » dans le menu.\n• Fermer la fenêtre laisse Logi AI tourner dans la barre des menus (icône en haut de l'écran). ⌘Q pour quitter.\n• Option « Ouvrir Logi AI au démarrage du Mac » (Missions ou Réglages).",
+  "pub_date": "2026-11-13T08:23:51.408Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3JRb0JJRzB0OHZHdjg2aEQyODBOQjdHVy9Nc0dFYlFXVytzU21uYm5zU1ZCNlFDb1VHaTZ0OFVsczR3VWErMFhmcWdGakl2VkV0aFN4ZWZ1amt1WHhOSStQNDlDNHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTU2OTcxCWZpbGU6TG9naSBBSS5hcHAudGFyLmd6CXZlcnNpb246MS42LjAKdW5pUitBV1VFL1hCYUFlQlU3RlJmRWtKOU9yNHhBdGszRE9zNDJwV2VGRHZuamgzQytERTBscHhydmYxNDhUYzBqdzVudTFmNmN4eDNnd0FSQzVSQ3c9PQo=",
-      "url": "https://raw.githubusercontent.com/logiprof/logiai-releases/main/versions/1.6.0/Logi.AI_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3JRb0JJRzB0OHZtQStBVjNuS3R3ZmNtWU11Nk5lTEtoN2RWaHVSSS8yT0Vxa2Z5OHcxM0JRTGVYbjZ6cjFlWEI3dDZUNmFWUC9JTjdmZlJCeng3QnFSa0JqZTBJNmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTU4MjI2CWZpbGU6TG9naSBBSS5hcHAudGFyLmd6CXZlcnNpb246MS43LjAKTnUrWjNaQlhMSzVHSUtBS1AvQTR5LzVSOFBjMHJhVThQbituT2QrYUEyR2o5Tm9hc2Y0a0NoOGFVK0ZJNlZ2aDdNdUVDWE9MQ1VtcnJhaXVJRXI0QUE9PQo=",
+      "url": "https://raw.githubusercontent.com/logiprof/logiai-releases/main/versions/1.7.0/Logi.AI_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3JRb0JJRzB0OHZHdjg2aEQyODBOQjdHVy9Nc0dFYlFXVytzU21uYm5zU1ZCNlFDb1VHaTZ0OFVsczR3VWErMFhmcWdGakl2VkV0aFN4ZWZ1amt1WHhOSStQNDlDNHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTU2OTcxCWZpbGU6TG9naSBBSS5hcHAudGFyLmd6CXZlcnNpb246MS42LjAKdW5pUitBV1VFL1hCYUFlQlU3RlJmRWtKOU9yNHhBdGszRE9zNDJwV2VGRHZuamgzQytERTBscHhydmYxNDhUYzBqdzVudTFmNmN4eDNnd0FSQzVSQ3c9PQo=",
-      "url": "https://raw.githubusercontent.com/logiprof/logiai-releases/main/versions/1.6.0/Logi.AI_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3JRb0JJRzB0OHZtQStBVjNuS3R3ZmNtWU11Nk5lTEtoN2RWaHVSSS8yT0Vxa2Z5OHcxM0JRTGVYbjZ6cjFlWEI3dDZUNmFWUC9JTjdmZlJCeng3QnFSa0JqZTBJNmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTU4MjI2CWZpbGU6TG9naSBBSS5hcHAudGFyLmd6CXZlcnNpb246MS43LjAKTnUrWjNaQlhMSzVHSUtBS1AvQTR5LzVSOFBjMHJhVThQbituT2QrYUEyR2o5Tm9hc2Y0a0NoOGFVK0ZJNlZ2aDdNdUVDWE9MQ1VtcnJhaXVJRXI0QUE9PQo=",
+      "url": "https://raw.githubusercontent.com/logiprof/logiai-releases/main/versions/1.7.0/Logi.AI_aarch64.app.tar.gz"
     }
   }
 }
