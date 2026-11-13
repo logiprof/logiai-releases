@@ -1,0 +1,4 @@
+Nouveautés de la version 1.8.0 :
+• Logi AI web : votre Logi AI dans n'importe quel navigateur (par exemple à l'école), protégé par un mot de passe et un code à 6 chiffres.
+• Synchronisation : projets, discussions, créations, skills, missions et réglages sont partagés entre le Mac et Logi AI web (Réglages › Logi AI web).
+• « Envoyer mes clés à Logi AI web » : copie vos clés API, GitHub et sites WordPress en un clic (chiffrées sur le serveur).
