@@ -1,0 +1,4 @@
+Nouveautés de la version 1.6.0 :
+• Nouveau menu : groupes repliables (Créer, Mes contenus, Projets, Publier), bouton « Nouveau », icônes.
+• Épinglés : vos projets et discussions épinglés restent toujours visibles en haut du menu.
+• Menu réduit aux icônes (bouton en haut du menu) pour gagner de la place.
