@@ -1,0 +1,5 @@
+Nouveautés de la version 1.9.0 :
+• Chat multimodal : glissez, collez (⌘V) ou joignez des photos, captures, PDF, Word, PowerPoint, Excel et CSV ; l'IA regarde les images et lit les documents.
+• « Créer une image » dans le chat : décrivez l'image (les images jointes servent de modèle), elle est créée avec Gemini et rangée dans vos Illustrations.
+• Bouton « ⋯ » sur chaque discussion de la liste : renommer, épingler, changer de projet, supprimer.
+• Logi AI web se met à jour en un clic (Réglages › Mises à jour).
