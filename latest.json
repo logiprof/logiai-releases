@@ -1,15 +1,15 @@
 {
-  "version": "1.9.1",
-  "notes": "Nouveautés de la version 1.9.1 :\n• Chat multimodal : glissez, collez (⌘V) ou joignez des photos, captures, PDF, Word, PowerPoint, Excel et CSV ; l'IA regarde les images et lit les documents.\n• « Créer une image » dans le chat : décrivez l'image (les images jointes servent de modèle), elle est créée avec Gemini et rangée dans vos Illustrations.\n• Bouton « ⋯ » sur chaque discussion de la liste : renommer, épingler, changer de projet, supprimer.\n• Logi AI web se met à jour en un clic (Réglages › Mises à jour).\n• Productions en arrière-plan : lancez une production puis travaillez ailleurs ; un encadré montre l'avancement et une notification vous prévient quand c'est terminé (bouton « Ouvrir »).",
-  "pub_date": "2026-11-13T17:54:56.331Z",
+  "version": "1.9.2",
+  "notes": "Nouveautés de la version 1.9.2 :\n• Chat multimodal : glissez, collez (⌘V) ou joignez des photos, captures, PDF, Word, PowerPoint, Excel et CSV ; l'IA regarde les images et lit les documents.\n• « Créer une image » dans le chat : décrivez l'image (les images jointes servent de modèle), elle est créée avec Gemini et rangée dans vos Illustrations.\n• Bouton « ⋯ » sur chaque discussion de la liste : renommer, épingler, changer de projet, supprimer.\n• Logi AI web se met à jour en un clic (Réglages › Mises à jour).\n• Productions en arrière-plan : lancez une production puis travaillez ailleurs ; un encadré montre l'avancement et une notification vous prévient quand c'est terminé (bouton « Ouvrir »).\n• Smartphone : Logi AI web s'adapte à l'écran (menu en tiroir, chat en une colonne, aucune page ne déborde).",
+  "pub_date": "2026-11-14T11:36:20.473Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3JRb0JJRzB0OG94dXJDQVlwQUwvOFY3R0Q1OC9sZzFVWkdJYktabE1BYVZpeDUzbUlwK00vcVR2cE9oSXl4cVJkeG82QVlhSVBhYlVTMmI0WE04ZXBwRFU1SVJJMkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTkyNDg5CWZpbGU6TG9naSBBSS5hcHAudGFyLmd6CXZlcnNpb246MS45LjEKQlFUZk1kUUZUUzJHQWEvb0Z1OHhTWlFuOEIySXoxd3M4eFlsc3k5cXZRdzJxZ1B4azFGY09ML2tzMlV4cXFzQzZuelcraW1OOTRpWjJ2eHp2elVJQUE9PQo=",
-      "url": "https://raw.githubusercontent.com/logiprof/logiai-releases/main/versions/1.9.1/Logi.AI_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3JRb0JJRzB0OHNLMmJ3ZDNZdk0xMkpuMHpHS00vUjlqb1QrWTI3NmNZOXIxM3BwOWxSUndUNGJnMFl3SlFXZEhUSE5zRFIzZnFBTk1XQy9WQlFsblZxRElSYmxCU2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjU2MTcyCWZpbGU6TG9naSBBSS5hcHAudGFyLmd6CXZlcnNpb246MS45LjIKV0RTOWhVMXh4L243a1BacVZlSjFPcDJLN3BnVEd3aGtxK2oyNW5XWHhhUGFjeEhwZ1hWODVERFFtSnJlRTZpY2dIVHdjaXJ2WUVCNkM5cmk4Z2ZIQ3c9PQo=",
+      "url": "https://raw.githubusercontent.com/logiprof/logiai-releases/main/versions/1.9.2/Logi.AI_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3JRb0JJRzB0OG94dXJDQVlwQUwvOFY3R0Q1OC9sZzFVWkdJYktabE1BYVZpeDUzbUlwK00vcVR2cE9oSXl4cVJkeG82QVlhSVBhYlVTMmI0WE04ZXBwRFU1SVJJMkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTkyNDg5CWZpbGU6TG9naSBBSS5hcHAudGFyLmd6CXZlcnNpb246MS45LjEKQlFUZk1kUUZUUzJHQWEvb0Z1OHhTWlFuOEIySXoxd3M4eFlsc3k5cXZRdzJxZ1B4azFGY09ML2tzMlV4cXFzQzZuelcraW1OOTRpWjJ2eHp2elVJQUE9PQo=",
-      "url": "https://raw.githubusercontent.com/logiprof/logiai-releases/main/versions/1.9.1/Logi.AI_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3JRb0JJRzB0OHNLMmJ3ZDNZdk0xMkpuMHpHS00vUjlqb1QrWTI3NmNZOXIxM3BwOWxSUndUNGJnMFl3SlFXZEhUSE5zRFIzZnFBTk1XQy9WQlFsblZxRElSYmxCU2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjU2MTcyCWZpbGU6TG9naSBBSS5hcHAudGFyLmd6CXZlcnNpb246MS45LjIKV0RTOWhVMXh4L243a1BacVZlSjFPcDJLN3BnVEd3aGtxK2oyNW5XWHhhUGFjeEhwZ1hWODVERFFtSnJlRTZpY2dIVHdjaXJ2WUVCNkM5cmk4Z2ZIQ3c9PQo=",
+      "url": "https://raw.githubusercontent.com/logiprof/logiai-releases/main/versions/1.9.2/Logi.AI_aarch64.app.tar.gz"
     }
   }
 }
