@@ -1,0 +1,12 @@
+Nouveautés de la version 1.9.5 :
+• Chat multimodal : glissez, collez (⌘V) ou joignez des photos, captures, PDF, Word, PowerPoint, Excel et CSV ; l'IA regarde les images et lit les documents.
+• « Créer une image » dans le chat : décrivez l'image (les images jointes servent de modèle), elle est créée avec Gemini et rangée dans vos Illustrations.
+• Bouton « ⋯ » sur chaque discussion de la liste : renommer, épingler, changer de projet, supprimer.
+• Logi AI web se met à jour en un clic (Réglages › Mises à jour).
+• Productions en arrière-plan : lancez une production puis travaillez ailleurs ; un encadré montre l'avancement et une notification vous prévient quand c'est terminé (bouton « Ouvrir »).
+• Smartphone : Logi AI web s'adapte à l'écran (menu en tiroir, chat en une colonne, aucune page ne déborde).
+• iPhone : « Sur l'écran d'accueil » affiche l'icône Logi AI et ouvre Logi AI web en plein écran, comme une app.
+• iPhone et iPad : l'écran ne zoome plus (ni en touchant un champ, ni au double-tap, ni en pinçant).
+• Logi AI s'ouvre sur le Chat, prêt pour une nouvelle discussion (réglable : Réglages › Apparence).
+• Tableau de bord : soldes de tous vos comptes IA, actualisés automatiquement quand c'est possible.
+• Assistants facultatifs dans Scénarios et Projets : décrivez ce que vous voulez, ils le préparent et vous confirmez.
