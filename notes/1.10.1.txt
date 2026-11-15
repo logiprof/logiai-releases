@@ -1,0 +1,6 @@
+Nouveautés de la version 1.10.1 :
+• Vos tâches continuent sur le serveur Logi AI web, même si vous fermez l'app (iPhone, navigateur ou Mac) : réponses du Chat, productions, illustrations et scénarios.
+• Mac relié à Logi AI web : il confie ces tâches au serveur ; elles se terminent même si vous quittez l'app ou éteignez le Mac (les skills Claude Code / Codex restent sur le Mac).
+• Notifications sur l'iPhone quand une tâche est terminée (Réglages › Notifications, depuis l'icône de l'écran d'accueil).
+• Synchronisation plus sûre : une réponse arrivée pendant que vous écrivez n'est plus jamais perdue.
+• Chat : « Fais une photo de… », « Dessine… », « Crée une illustration de… » créent directement l'image, sans passer par le bouton.
