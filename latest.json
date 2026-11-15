@@ -1,15 +1,15 @@
 {
-  "version": "1.10.0",
-  "notes": "Nouveautés de la version 1.10.0 :\n• Vos tâches continuent sur le serveur Logi AI web, même si vous fermez l'app (iPhone, navigateur ou Mac) : réponses du Chat, productions, illustrations et scénarios.\n• Mac relié à Logi AI web : il confie ces tâches au serveur ; elles se terminent même si vous quittez l'app ou éteignez le Mac (les skills Claude Code / Codex restent sur le Mac).\n• Notifications sur l'iPhone quand une tâche est terminée (Réglages › Notifications, depuis l'icône de l'écran d'accueil).\n• Synchronisation plus sûre : une réponse arrivée pendant que vous écrivez n'est plus jamais perdue.",
-  "pub_date": "2026-11-14T17:59:08.819Z",
+  "version": "1.10.1",
+  "notes": "Nouveautés de la version 1.10.1 :\n• Vos tâches continuent sur le serveur Logi AI web, même si vous fermez l'app (iPhone, navigateur ou Mac) : réponses du Chat, productions, illustrations et scénarios.\n• Mac relié à Logi AI web : il confie ces tâches au serveur ; elles se terminent même si vous quittez l'app ou éteignez le Mac (les skills Claude Code / Codex restent sur le Mac).\n• Notifications sur l'iPhone quand une tâche est terminée (Réglages › Notifications, depuis l'icône de l'écran d'accueil).\n• Synchronisation plus sûre : une réponse arrivée pendant que vous écrivez n'est plus jamais perdue.\n• Chat : « Fais une photo de… », « Dessine… », « Crée une illustration de… » créent directement l'image, sans passer par le bouton.",
+  "pub_date": "2026-11-15T02:31:27.269Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3JRb0JJRzB0OG9jR2tVbXlPOWVtakhub1hyRVNWdDVXMWREczZyd3puNWk3VjYwRFFmWU53VmVTaEl3VHhZNFBnVUVHWURiZi9BQlllaFFuT0NKODdiQ2hNVWgzR1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Njc5MTQyCWZpbGU6TG9naSBBSS5hcHAudGFyLmd6CXZlcnNpb246MS4xMC4wCnc1cUlackNRMU5WY3FUWTlXWStmbTNIcXd2NDJ1U1BCSk5mcC9EOHpSb3ZxOVMvZEc1LzludW9MOG4rQWp0OGFsdjVUbjNWL1huOVRnOVh1UWtzSkJnPT0K",
-      "url": "https://raw.githubusercontent.com/logiprof/logiai-releases/main/versions/1.10.0/Logi.AI_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3JRb0JJRzB0OGpMdUNuR2Z3YitxNU51K003cGtCWUZaTmpGZGExb0xMd1lYSWpZT1FDcjB0MzdQRTJrLzBub3h2eVRTMkU5MkhoVlNDNmVBWllIRnhyUEhCMUxMbWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzA5ODgyCWZpbGU6TG9naSBBSS5hcHAudGFyLmd6CXZlcnNpb246MS4xMC4xCitkcG1ZU1U1czVCbmxGdktrZnBHbExQNDFBZm5pb29XTEluOXo5aWdBdzVVTHBMQWVMM09OOUhzSHlJR0VtdW13VVN0UGY3bUF5WmRRZDA4ZHppc0NRPT0K",
+      "url": "https://raw.githubusercontent.com/logiprof/logiai-releases/main/versions/1.10.1/Logi.AI_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3JRb0JJRzB0OG9jR2tVbXlPOWVtakhub1hyRVNWdDVXMWREczZyd3puNWk3VjYwRFFmWU53VmVTaEl3VHhZNFBnVUVHWURiZi9BQlllaFFuT0NKODdiQ2hNVWgzR1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Njc5MTQyCWZpbGU6TG9naSBBSS5hcHAudGFyLmd6CXZlcnNpb246MS4xMC4wCnc1cUlackNRMU5WY3FUWTlXWStmbTNIcXd2NDJ1U1BCSk5mcC9EOHpSb3ZxOVMvZEc1LzludW9MOG4rQWp0OGFsdjVUbjNWL1huOVRnOVh1UWtzSkJnPT0K",
-      "url": "https://raw.githubusercontent.com/logiprof/logiai-releases/main/versions/1.10.0/Logi.AI_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3JRb0JJRzB0OGpMdUNuR2Z3YitxNU51K003cGtCWUZaTmpGZGExb0xMd1lYSWpZT1FDcjB0MzdQRTJrLzBub3h2eVRTMkU5MkhoVlNDNmVBWllIRnhyUEhCMUxMbWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzA5ODgyCWZpbGU6TG9naSBBSS5hcHAudGFyLmd6CXZlcnNpb246MS4xMC4xCitkcG1ZU1U1czVCbmxGdktrZnBHbExQNDFBZm5pb29XTEluOXo5aWdBdzVVTHBMQWVMM09OOUhzSHlJR0VtdW13VVN0UGY3bUF5WmRRZDA4ZHppc0NRPT0K",
+      "url": "https://raw.githubusercontent.com/logiprof/logiai-releases/main/versions/1.10.1/Logi.AI_aarch64.app.tar.gz"
     }
   }
 }
